@@ -5,3 +5,5 @@ LG WebOS-based smart TVs are great for their image quality and features, but the
 The most comprehensive forum thread on this topic: https://webos-forums.ru/topic4796.html (in Russian)
 
 The first page has a link to a manual on unpacking your TV's firmware and discovering exactly what USB ethernet chipsets it supports for USB ethernet connection (if any). The manual also provides some reference for finding a supported adapter for a specific driver.
+
+My comment on a Reddit thread: https://www.reddit.com/r/webos/comments/i7oknc/comment/mo9imd0/
